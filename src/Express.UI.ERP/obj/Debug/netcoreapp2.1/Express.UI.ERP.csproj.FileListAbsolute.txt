@@ -1,0 +1,16 @@
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\bin\Debug\netcoreapp2.1\Express.UI.ERP.deps.json
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\bin\Debug\netcoreapp2.1\Express.UI.ERP.runtimeconfig.json
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\bin\Debug\netcoreapp2.1\Express.UI.ERP.runtimeconfig.dev.json
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\bin\Debug\netcoreapp2.1\Express.UI.ERP.dll
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\bin\Debug\netcoreapp2.1\Express.UI.ERP.pdb
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\obj\Debug\netcoreapp2.1\Express.UI.ERP.csprojAssemblyReference.cache
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\obj\Debug\netcoreapp2.1\Express.UI.ERP.AssemblyInfoInputs.cache
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\obj\Debug\netcoreapp2.1\Express.UI.ERP.AssemblyInfo.cs
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\obj\Debug\netcoreapp2.1\Express.UI.ERP.csproj.CoreCompileInputs.cache
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\obj\Debug\netcoreapp2.1\Express.UI.ERP.RazorAssemblyInfo.cache
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\obj\Debug\netcoreapp2.1\Express.UI.ERP.RazorAssemblyInfo.cs
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\obj\Debug\netcoreapp2.1\Express.UI.ERP.RazorTargetAssemblyInfo.cache
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\obj\Debug\netcoreapp2.1\Express.UI.ERP.dll
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\obj\Debug\netcoreapp2.1\Express.UI.ERP.pdb
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\obj\Debug\netcoreapp2.1\Express.UI.ERP.genruntimeconfig.cache
