@@ -14,3 +14,13 @@ E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\obj\Debug\netcoreapp2.1\Ex
 E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\obj\Debug\netcoreapp2.1\Express.UI.ERP.dll
 E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\obj\Debug\netcoreapp2.1\Express.UI.ERP.pdb
 E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\obj\Debug\netcoreapp2.1\Express.UI.ERP.genruntimeconfig.cache
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\bin\Debug\netcoreapp2.1\appsettings.json
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\bin\Debug\netcoreapp2.1\Express.UI.ERP.Views.dll
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\bin\Debug\netcoreapp2.1\Express.UI.ERP.Views.pdb
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\obj\Debug\netcoreapp2.1\Express.UI.ERP.TagHelpers.input.cache
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\obj\Debug\netcoreapp2.1\Express.UI.ERP.TagHelpers.output.cache
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\obj\Debug\netcoreapp2.1\Express.UI.ERP.RazorCoreGenerate.cache
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\obj\Debug\netcoreapp2.1\Express.UI.ERP.RazorTargetAssemblyInfo.cs
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\obj\Debug\netcoreapp2.1\Express.UI.ERP.Views.pdb
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\obj\Debug\netcoreapp2.1\Express.UI.ERP.csproj.CopyComplete
