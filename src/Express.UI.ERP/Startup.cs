@@ -27,6 +27,7 @@ namespace Express.UI.ERP
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseStaticFiles();
 
             app.UseMvc( routes => 
             {
@@ -36,12 +37,6 @@ namespace Express.UI.ERP
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
 
-            /*
-            app.Run(async (context) =>
-            {
-                await context.Response.WriteAsync("Hello World!");
-            });
-            */
         }
     }
 }

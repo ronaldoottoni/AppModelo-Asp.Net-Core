@@ -1,4 +1,3 @@
-E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
 E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\bin\Debug\netcoreapp2.1\Express.UI.ERP.deps.json
 E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\bin\Debug\netcoreapp2.1\Express.UI.ERP.runtimeconfig.json
 E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\bin\Debug\netcoreapp2.1\Express.UI.ERP.runtimeconfig.dev.json
@@ -24,3 +23,8 @@ E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\obj\Debug\netcoreapp2.1\Ra
 E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\obj\Debug\netcoreapp2.1\Express.UI.ERP.RazorTargetAssemblyInfo.cs
 E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\obj\Debug\netcoreapp2.1\Express.UI.ERP.Views.pdb
 E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\obj\Debug\netcoreapp2.1\Express.UI.ERP.csproj.CopyComplete
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\bin\Debug\netcoreapp2.1\libman.json
+E:\Documentos\Cursos\Asp\AppModelo\src\Express.UI.ERP\bin\Debug\netcoreapp2.1\bundleconfig.json
